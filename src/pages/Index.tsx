@@ -71,7 +71,7 @@ const Index = () => {
         <section className="py-16 bg-secondary">
           <div className="container-tight">
             <div className="text-center mb-12">
-              <h2 className="text-2xl md:text-3xl font-bold mb-4">How EcoScan Works</h2>
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">How Revive Works</h2>
               <p className="text-muted-foreground max-w-2xl mx-auto">Our AI-powered platform makes recycling easier than ever</p>
             </div>
             
